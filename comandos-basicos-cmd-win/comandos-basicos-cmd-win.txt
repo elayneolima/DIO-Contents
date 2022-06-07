@@ -1,0 +1,45 @@
+Comandos básicos para um bom desempenho no terminal 
+
+
+- Windows 
+
+1.-> cd Permite a navegação nas pastas e ele é igual para todos os sitemas 
+operacoinais
+
+PS.: Para subir um nível durante a navegação nos diretórios, precisamos 
+inicialmente, digitar = cd .. 
+
+2.-> dir  Nos permite se situar em que local estamos, 
+traz uma lista de diretorios contidos na pasta na 
+qual estamos situados.
+
+3.-> mkdir permite criar uma pasta.
+
+PS.: Criando um arquivo no terminal
+
+4.-> echo (o comando echo permite printar algo que você escreveu)
+
+5.-> echo hello > (o simbolo de "maior que" é um redirecionador de fluxo
+                 ele vai pegar a saída do echo e jogar em um arquivo.)
+
+6.-> echo hello > hello.txt (cria o arquivo)
+
+7.-> Vamos utilizar o primeiro comando para deletar
+  -> del dirtorioCriado.
+ 
+Perceba que, ao procurar pelo diretorio, ele ainda estará lá.
+No windows, existe uma diferença entre deletar aquivos e deletar repositórios. 
+
+o comando del serve para deletar aquivos. 
+se utilizamos del junto ao nome de uma pasta,
+ele irá excluir todos os arquivos daquela pasta. 
+
+PS.: Para navegar no histórico de comandos que usamos, utilizamos 
+as arrows(seta cima e baixo do teclado).  
+
+como deletar uma pasta e todo o conteudo dela? 
+- Utilize o comando rmdir nome_da_pasta e as flags /s e /q 
+
+
+
+
